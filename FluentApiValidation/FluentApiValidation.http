@@ -1,0 +1,6 @@
+@FluentApiValidation_HostAddress = http://localhost:5108
+
+GET {{FluentApiValidation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
